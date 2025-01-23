@@ -1,3 +1,17 @@
+# (Basic) Random Quote Machine
+
+## freeCodeCamp Instructed Project
+
+### Final project created by Giulia Martins
+
+This project uses React (see bottom instructions) to create a random quote machine.
+
+This project demonstrates a basic array of random quotes to project to the user using the web page. The user is also allowed to tweet the quote to their liking.
+
+For future considerations, APIs may be integrated instead of manually implementing different quotes. 
+
+#########################################################################################################################################################################################
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
