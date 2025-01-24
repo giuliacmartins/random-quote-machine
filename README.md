@@ -4,6 +4,8 @@
 
 ### Final project created by Giulia Martins
 
+Preview link: https://rpv4kg.csb.app/
+
 This project uses React (see bottom instructions) to create a random quote machine.
 
 This project demonstrates a basic array of random quotes to project to the user using the web page. The user is also allowed to tweet the quote to their liking.
